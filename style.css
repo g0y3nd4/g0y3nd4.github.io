@@ -127,8 +127,8 @@ header.shadow {
   flex-direction: column;
 }
 .social a {
-  margin-bottom: 1rem;
-  font-size: 50px;
+  margin-bottom: 5rem;
+  font-size: 22px;
   color: var(--text-color);
 }
 .social a:hover {
